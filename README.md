@@ -12,40 +12,28 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#finma">
-        <img src="mongodb-icon-1.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#finma">
-        <img src="expressjs.png" width="48" height="48" alt="ExpressJS" />
-      </a>
-      <br>ExpressJS
-    </td>
-    <td align="center" width="96">
       <a href="#finma" >
         <img src="react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#finma">
-        <img src="nodejs-icon.svg" width="48" height="48" alt="NodeJS" />
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center"  width="96">
-      <a href="#finma">
-        <img src="typescript-original.svg" width="48" height="48" alt="Typescript" />
-      </a>
-      <br>Typescript
     </td>
     <td align="center"  width="96">
       <a href="#finma">
         <img src="javascript-original.svg" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
+    </td>
+    <td align="center"  width="96">
+      <a href="#finma">
+        <img src="tailwind-css-2.svg" width="48" height="48" alt="TailwindCSS" />
+      </a>
+      <br>Tailwindcss
+    </td>
+    <td align="center"  width="96">
+      <a href="#finma">
+        <img src="nextjs.png" width="48" height="48" alt="NextJS" />
+      </a>
+      <br>NextJS
     </td>
   </tr>
   
@@ -64,12 +52,6 @@
     </td>
     <td align="center"  width="96">
       <a href="#finma">
-        <img src="tailwind-css-2.svg" width="48" height="48" alt="TailwindCSS" />
-      </a>
-      <br>Tailwindcss
-    </td>
-    <td align="center"  width="96">
-      <a href="#finma">
         <img src="bootstrap-plain.svg" width="48" height="48" alt="Boostrap" />
       </a>
       <br>Boostrap
@@ -79,12 +61,6 @@
         <img src="php-1.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
-    </td>
-    <td align="center"  width="96">
-      <a href="#finma">
-        <img src="nextjs.png" width="48" height="48" alt="NextJS" />
-      </a>
-      <br>NextJS
     </td>
   </tr>
 </table>
