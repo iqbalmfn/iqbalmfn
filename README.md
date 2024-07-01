@@ -1,6 +1,6 @@
 <!-- <p align="center"><img src="img/finma.png" width="350"></p> -->
 
-| <a href="https://github.com/iqbalmfn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbalmfn&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="Iqbal's github stats" /></a> | <a href="https://github.com/iqbalmfn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmfn&count_private=true&layout=compact&show_icons=true&theme=tokyonight" /></a> |
+| <a href="https://github.com/iqbalmfn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbalmfn&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="Iqbal's github stats" /></a> | <a href="https://github.com/iqbalmfn"><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmfn&count_private=true&layout=compact&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmfn&count_private=true&exclude_repo=siapmas,Sidigs&layout=compact&show_icons=true&theme=tokyonight)" /></a> |
 | ------------- | ------------- |
 
 <h2 align="left" id="finma">Favorite Tech</h2>
