@@ -1,6 +1,6 @@
 <!-- <p align="center"><img src="img/finma.png" width="350"></p> -->
 
-| <a href="https://github.com/iqbalmfn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbalmfn&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Iqbal's github stats" /></a> | <a href="https://github.com/iqbalmfn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmfn&exclude_repo=inertiareact-bootstrap-boilerplate&count_private=true&layout=compact&theme=tokyonight&&size_weight=0.5&count_weight=0.5" /></a> |
+| <a href="https://github.com/iqbalmfn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbalmfn&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Iqbal's github stats" /></a> | <a href="https://github.com/iqbalmfn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmfn&exclude_repo=inertiareact-bootstrap-boilerplate&count_private=true&layout=compact&theme=tokyonight&&size_weight=0.5&count_weight=0.5&card_width=400" /></a> |
 | ------------- | ------------- |
 
 <h2 align="left" id="finma">Favorite Tech</h2>
