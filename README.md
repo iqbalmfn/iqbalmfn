@@ -13,37 +13,37 @@
   <tr>
     <td align="center" width="96">
       <a href="#finma">
-        <img src="./img/mongodb-icon-1.svg" width="48" height="48" alt="MongoDB" />
+        <img src="mongodb-icon-1.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
     <td align="center" width="96">
       <a href="#finma">
-        <img src="./img/expressjs.png" width="48" height="48" alt="ExpressJS" />
+        <img src="expressjs.png" width="48" height="48" alt="ExpressJS" />
       </a>
       <br>ExpressJS
     </td>
     <td align="center" width="96">
       <a href="#finma" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#finma">
-        <img src="./img/nodejs-icon.svg" width="48" height="48" alt="NodeJS" />
+        <img src="nodejs-icon.svg" width="48" height="48" alt="NodeJS" />
       </a>
       <br>NodeJS
     </td>
     <td align="center"  width="96">
       <a href="#finma">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="Typescript" />
+        <img src="typescript-original.svg" width="48" height="48" alt="Typescript" />
       </a>
       <br>Typescript
     </td>
     <td align="center"  width="96">
       <a href="#finma">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="Javascript" />
+        <img src="javascript-original.svg" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
     </td>
@@ -52,37 +52,37 @@
   <tr>
     <td align="center"  width="96">
       <a href="#finma">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
     <td align="center"  width="96">
       <a href="#finma">
-        <img src="./img/laravel-2.svg" width="48" height="48" alt="MySQL" />
+        <img src="laravel-2.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>Laravel
     </td>
     <td align="center"  width="96">
       <a href="#finma">
-        <img src="./img/tailwind-css-2.svg" width="48" height="48" alt="TailwindCSS" />
+        <img src="tailwind-css-2.svg" width="48" height="48" alt="TailwindCSS" />
       </a>
       <br>Tailwindcss
     </td>
     <td align="center"  width="96">
       <a href="#finma">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Boostrap" />
+        <img src="bootstrap-plain.svg" width="48" height="48" alt="Boostrap" />
       </a>
       <br>Boostrap
     </td>
     <td align="center"  width="96">
       <a href="#finma">
-        <img src="./img/php-1.svg" width="48" height="48" alt="PHP" />
+        <img src="php-1.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
     <td align="center"  width="96">
       <a href="#finma">
-        <img src="./img/nextjs.png" width="48" height="48" alt="NextJS" />
+        <img src="nextjs.png" width="48" height="48" alt="NextJS" />
       </a>
       <br>NextJS
     </td>
